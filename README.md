@@ -9,8 +9,8 @@
 
 # WHO SMART GUIDELINES - ET Base IG
 
-* http://build.fhir.org/ig/legessed/ETBase
-* http://legessed/ETBase.github.io/ETBase
+* http://build.fhir.org/ig/legessed/ETHBase
+* http://legessed/ETHBase.github.io/ETHBase
 
 ## Changes and feedback
 
