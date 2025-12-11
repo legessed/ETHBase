@@ -8,7 +8,7 @@
 <!--/badges-->
 
 # WHO SMART GUIDELINES - ET Base IG
-
+CI Build:
 * http://build.fhir.org/ig/legessed/ETHBase
 * http://legessed/ETHBase.github.io/ETHBase
 
