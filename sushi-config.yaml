@@ -1,5 +1,5 @@
-id: smart.who.int.ig-empty
-canonical: http://smart.who.int/ig-empty
+id: et.fhir.core
+canonical: http://moh.gov.et/standards/fhir/base
 name: ETBase
 title: Ethiopia Base Implementation Guide
 description: Implementation Guide to be used as abase for Implementation Guides in Ethiopia
